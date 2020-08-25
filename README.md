@@ -25,6 +25,9 @@ The function calculate_bid takes in 4 parameters - an integer player, the positi
 
 ![](leaderboard.PNG)
 
-## Demo:
+## Gameplay:
 
+![](gameplay/gameplay1.gif)
+
+![](gameplay/gameplay2.gif)
 
