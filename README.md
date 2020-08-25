@@ -3,12 +3,13 @@
 ## Description:
 
 - A Hackerrank challenge to play a bidding game against other players.
-- Secured 14th position worldwide out of 500+ submissions.
+- Secured 14th position worldwide out of 500+ submissions. (username: ar05199)
 
 
 ## Leaderboard:
 
+![](leaderboard.png)
 
 ## Demo:
 
-![](leaderboard.png)
+
