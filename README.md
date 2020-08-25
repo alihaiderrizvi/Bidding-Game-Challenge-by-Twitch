@@ -8,7 +8,7 @@
 
 ## Leaderboard:
 
-![](leaderboard.png)
+![](leaderboard.PNG)
 
 ## Demo:
 
