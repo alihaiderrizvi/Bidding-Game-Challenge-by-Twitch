@@ -4,6 +4,7 @@
 
 - A Hackerrank challenge to play a bidding game against other players.
 - Secured 14th position worldwide out of 500+ submissions. (username: ar05199)
+- Challenge Link: https://www.hackerrank.com/contests/twitch/challenges
 
 ## Problem Statement:
 
